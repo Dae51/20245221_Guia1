@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+
+.navy {
+    color: navy;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.underline {
+    text-decoration: underline;
+}
